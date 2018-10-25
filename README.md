@@ -43,3 +43,6 @@ https://ai.googleblog.com/
 
 Обзор последних статей в сфере ML, но больше про зрение и графику
 https://www.youtube.com/user/keeroyz/videos
+
+Куча всего
+https://github.com/keon/awesome-nlp
