@@ -33,3 +33,13 @@ https://colab.research.google.com/drive/1SgbhBg_cP6ZuZzwxEIgO_cg749ilywzE
 
 Пример с Q&A "Ватсон своими руками"
 https://colab.research.google.com/github/sergts/simple-watson/blob/master/Watson.ipynb
+
+## Чего еще посмотреть
+Русскоязычная серия лекций про Дип Лернинг
+https://www.youtube.com/watch?v=Sofqhhhei7I&index=9&list=PL5FkQ0AF9O_pTeRf6UjyfnsRbMyema6I3
+
+Гугл постоянно что-то выкладывает у себя в блоге, много интересного про то что связано с языком
+https://ai.googleblog.com/
+
+Обзор последних статей в сфере ML, но больше про зрение и графику
+https://www.youtube.com/user/keeroyz/videos
